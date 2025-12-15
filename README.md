@@ -1,218 +1,118 @@
-👋 Hi, I’m Lavisha Yadav
+<div align="center">
 
-🎓 M.Tech (AI & Data Science)
-📍 India
-💡 Passionate about building applied AI systems, not just models
-🚀 Focused on Machine Learning, Automation & AI-driven Products
+# 🌸 Lavisha Yadav 👩‍💻✨  
+### AI & Data Science Engineer | ML Systems Builder 🚀  
 
-🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+AI+Ideas+into+Live+Products;Building+ML+Systems+that+Actually+Work;From+Data+to+Deployment;Future+AI+Engineer+%F0%9F%A7%A0" />
 
-I’m an AI & Data Science graduate who enjoys turning real-world problems into deployable machine learning solutions.
-I believe AI should be usable, explainable, and impactful, not just theoretical.
+</div>
 
-I have hands-on experience building and deploying ML applications including:
+---
 
-End-to-end ML pipelines
+## 🌈 About Me
 
-Intelligent recommendation systems
+✨ M.Tech student in **AI & Data Science**  
+🧠 Passionate about **end-to-end AI systems**  
+🚀 I don’t stop at training models — I **deploy** them  
+🎨 Love mixing **intelligence + clean UI + real-world logic**
 
-Fraud detection systems
+> *“Code should think. Models should speak. Apps should ship.”*
 
-NLP-based classifiers
+---
 
-Face & emotion-aware AI applications
+## 🧠 Tech Stack
 
-All my projects are implemented, deployed, and documented, not just notebooks.
+### 👩‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🔧 Tech Stack & Skills
-Programming & Core
+### 🤖 Machine Learning  
+![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-Python (Advanced)
+### 👁️ Computer Vision & NLP  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 
-SQL
+### 🚀 Deployment  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)
 
-Data Structures & Algorithms (Basics)
+---
 
-Object-Oriented Programming
+## 🚀 Featured Projects
 
-Data Science & Machine Learning
+### 🧠 AutoML Income Prediction  
+✨ Automatic preprocessing  
+✨ Multi-model evaluation  
+✨ Best model selection  
+✨ Deployed with Streamlit  
 
-Data Cleaning & Feature Engineering
+🔗 **Pinned Repository**
 
-Exploratory Data Analysis (EDA)
+---
 
-Supervised & Unsupervised Learning
+### 💳 Fraud Detection System  
+🛡️ Real-time fraud prediction  
+⚙️ Imbalance handling  
+📊 ML pipeline  
+🌐 Live app  
 
-Model Evaluation & Optimization
+---
 
-Class Imbalance Handling
+### 🎭 Mood-Aware Recommendation System  
+😄 Mood-based suggestions  
+👍 Feedback loop  
+🌗 Dark/Light UI  
+🔥 Highly interactive  
 
-Pipeline Building (scikit-learn)
+---
 
-Machine Learning Algorithms
+### 📩 Spam & Phishing Detector  
+🚫 NLP-powered classification  
+📈 High accuracy  
+💡 Real-world use case  
 
-Linear & Logistic Regression
+---
 
-Decision Trees
+### 👁️ VibeSense AI  
+🎨 Face & emotion recognition  
+😄 Fun + intelligent  
+🧠 Human-centric AI  
 
-Random Forest
+---
 
-Gradient Boosting
+## 📊 GitHub Stats (Auto-Live)
 
-XGBoost
+<div align="center">
 
-KNN
+<img src="https://github-readme-stats.vercel.app/api?username=lavcode23&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavcode23&theme=radical&hide_border=true" width="48%" />
 
-Support Vector Machines
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavcode23&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-Deep Learning (Foundational)
+</div>
 
-Neural Network Basics
+---
 
-TensorFlow & Keras
+## 🌱 Currently Exploring
+🚀 Advanced ML pipelines  
+🧠 Recommendation intelligence  
+🌐 Scalable AI systems  
 
-CNN Fundamentals
+---
 
-Natural Language Processing
+## 🤝 Let’s Connect
 
-Text Preprocessing
+💼 LinkedIn https://www.linkedin.com/in/lavishayadav-ai/  
+📬 Open to **internships & AI roles**  
 
-TF-IDF, Bag of Words
+---
 
-Spam & Phishing Detection
+<div align="center">
 
-Sentiment Analysis (Basic)
+### ⭐ If you like my work, consider starring a repo!
 
-Computer Vision
-
-Face Detection
-
-Facial Expression Analysis
-
-Image Classification (Basic)
-
-Libraries & Tools
-
-Pandas, NumPy
-
-Scikit-learn
-
-XGBoost
-
-Matplotlib, Seaborn
-
-Deployment & MLOps (Beginner–Intermediate)
-
-Streamlit App Deployment
-
-Model Serialization (Joblib / Pickle)
-
-Git & GitHub
-
-Project Structuring
-
-Reproducible ML Pipelines
-
-Platforms
-
-Google Colab
-
-GitHub
-
-Streamlit Cloud
-
-VS Code
-
-🚀 Featured Projects
-🔹 AutoML Income Prediction System
-
-An end-to-end ML system that automatically trains, evaluates, and selects the best model for income classification.
-
-Tech: Python, scikit-learn, XGBoost, Streamlit
-Highlights:
-
-Automated preprocessing pipeline
-
-Multiple model comparison
-
-Best-model selection
-
-Fully deployed web app
-
-🔗 Pinned Repository
-
-🔹 Smart Fraud Detection System
-
-A machine learning system to detect fraudulent transactions using advanced feature engineering and ensemble models.
-
-Tech: Python, ML Pipelines, Streamlit
-Highlights:
-
-Class imbalance handling
-
-Model persistence
-
-Real-time predictions via UI
-
-🔗 Pinned Repository
-
-🔹 Mood-Aware Recommendation System
-
-An interactive recommendation engine that adapts suggestions based on user mood and feedback.
-
-Tech: NLP, ML, Streamlit
-Highlights:
-
-Mood-based logic
-
-User feedback loop
-
-Dynamic recommendations
-
-🔗 Pinned Repository
-
-🔹 Spam & Phishing Detection System
-
-A text classification system to detect spam and phishing messages.
-
-Tech: NLP, ML, Streamlit
-Highlights:
-
-Text preprocessing
-
-Feature extraction
-
-High-accuracy classification
-
-🔗 Pinned Repository
-
-🔹 VibeSense AI – Face & Emotion Aware System
-
-A fun and interactive AI application that analyzes facial expressions to detect user emotion and provide intelligent responses.
-
-Tech: Computer Vision, ML, Streamlit
-Highlights:
-
-Face detection
-
-Emotion classification
-
-Interactive UI
-
-🔗 Pinned Repository
-
-📌 What I’m Currently Working On
-
-Improving ML system robustness
-
-Exploring advanced recommendation systems
-
-Learning scalable AI deployment practices
-
-🤝 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/lavishayadav-ai/
-
-📧 Email: yadavlavisha23@gmail.com
-
-⭐ If you like my work, feel free to star a repository!
+</div>
