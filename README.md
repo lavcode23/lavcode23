@@ -106,7 +106,7 @@
 
 ## 🤝 Let’s Connect
 
-💼 LinkedIn (Coming soon)  
+💼 LinkedIn https://www.linkedin.com/in/lavishayadav-ai/  
 📬 Open to **internships & AI roles**  
 
 ---
@@ -116,9 +116,6 @@
 ### ⭐ If you like my work, consider starring a repo!
 
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavcode23&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
 
 
 ## 📊 GitHub Stats
